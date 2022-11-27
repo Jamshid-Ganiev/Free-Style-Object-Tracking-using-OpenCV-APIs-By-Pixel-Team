@@ -20,4 +20,5 @@ Project #2.
 ## Drawbacks
 - Does not recover well from failures due to full occlusion
 - Does not recover when objects are changed out of view
+- sufficiently low speed, an unstable operation when the object is lost
 
