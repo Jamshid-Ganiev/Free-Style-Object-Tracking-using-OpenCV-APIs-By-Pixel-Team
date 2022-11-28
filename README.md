@@ -9,6 +9,8 @@ https://drive.google.com/drive/folders/18DQVLmSaYM5fZoaG34gnyngpkU6UPcdV?usp=sha
 - Asadbek Khoshimov
 - Khaydarov Shokhzod
 - Sabirov Anvarbek
+# DEMO VIDEO WITH Team members:
+<img width="1013" alt="Screenshot 2022-11-28 at 1 05 45 PM" src="https://user-images.githubusercontent.com/84252587/204192219-8f189f86-e675-4b84-b1fc-1de7bee3fd32.png">
 
 # Algorithm CSRT
 ## CSRT (Discriminative Correlation Filter with Channel and Spatial Reliability) tracker
