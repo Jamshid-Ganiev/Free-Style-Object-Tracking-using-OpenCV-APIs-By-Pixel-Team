@@ -1,9 +1,8 @@
 # Free-Style-Object-Tracking-using-OpenCV-APIs-By-Pixel-Team
 Project #2.
 # Here is the link for DEMO VIDEOS:
-''
 - https://drive.google.com/drive/folders/18DQVLmSaYM5fZoaG34gnyngpkU6UPcdV?usp=share_link
-''
+
 # Author: GiGa Team
 - Jamshid Ganiev || Team Leader
 - Asadbek Khoshimov
