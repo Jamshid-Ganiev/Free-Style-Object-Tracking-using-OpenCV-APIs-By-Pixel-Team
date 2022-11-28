@@ -9,7 +9,8 @@ Project #2.
 - Khaydarov Shokhzod
 - Sabirov Anvarbek
 # DEMO VIDEO WITH Team members:
-<img width="1013" alt="Screenshot 2022-11-28 at 1 05 45 PM" src="https://user-images.githubusercontent.com/84252587/204192219-8f189f86-e675-4b84-b1fc-1de7bee3fd32.png">
+!<img width="1013" alt="Screenshot 2022-11-28 at 1 05 45 PM" src="https://user-images.githubusercontent.com/84252587/204192817-c953f6ea-f14c-4cd6-a095-ad5ae8d5fda4.png">
+
 # Drive to Demo video and real time test in class
 - https://drive.google.com/drive/folders/1dSViQBLc-TeolonHGvt6LHNqEo885eFS?usp=share_link
 
